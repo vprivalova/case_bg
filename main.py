@@ -1,3 +1,9 @@
+"""
+Team:
+Nizovtseva Anastasia 50
+Privalova Viktoria 60
+"""
+
 import random
 
 unique_words = []
