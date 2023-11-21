@@ -1,7 +1,7 @@
 """
 Team:
-Nizovtseva Anastasia 50
-Privalova Viktoria 60
+Nizovtseva Anastasia 80
+Privalova Viktoria 90
 """
 
 import random
